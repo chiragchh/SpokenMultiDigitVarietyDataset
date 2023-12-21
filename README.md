@@ -11,5 +11,5 @@ The Spoken Multi-Digit Variety Dataset is a collection of audio recordings conta
 
 ### Dataset Structure
 
-The dataset is organized into two subfolders - train and test folders. Each folder containing **text** file which transcription for each file.  
+The dataset is organized into two subfolders - train and test folders. Each subfolder containing **text** file which transcription for each file.  
 
